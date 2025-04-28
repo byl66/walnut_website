@@ -6,21 +6,21 @@ const products = [
     id: 1,
     title: '产品一',
     description: '这是一个优秀的产品描述，展示了产品的特点和优势。',
-    image: '/images/product1.jpg',
+    image: '/images/test.png',
     link: '/products/1'
   },
   {
     id: 2,
     title: '产品二',
     description: '这是另一个优秀的产品描述，展示了产品的特点和优势。',
-    image: '/images/product2.jpg',
+    image: '/images/test.png',
     link: '/products/2'
   },
   {
     id: 3,
     title: '产品三',
     description: '这是第三个优秀的产品描述，展示了产品的特点和优势。',
-    image: '/images/product3.jpg',
+    image: '/images/test.png',
     link: '/products/3'
   }
 ]
